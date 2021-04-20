@@ -18,11 +18,11 @@
 
 ### Community
 
-- [Plutus Community Docs](https://docs.plutus-community.com/) - Community driven documentation.
+- [Plutus Community Docs](https://docs.plutus-community.com) - Community driven documentation.
 - [Forum](https://forum.cardano.org/c/developers/cardano-plutus) - Discussions specific to the Plutus smart-contract platform for the Cardano blockchain.
 
 ### Plutus Pioneer Program
 
-- [Web](https://developers.cardano.org/en/plutus-pioneer-program/) - Web for the Plutus Pioneer Program.
+- [Web](https://developers.cardano.org/en/plutus-pioneer-program) - Web for the Plutus Pioneer Program.
 - [Lectures](https://www.youtube.com/watch?v=IEn6jUo-0vU&list=PLK8ah7DzglhhJzuiz7X33UCHSTYPB-8Jt) - Video lectures explaining Plutus.
 - [GitHub Repository](https://github.com/input-output-hk/plutus-pioneer-program) - Repository with exercises for the lectures.
