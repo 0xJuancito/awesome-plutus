@@ -9,7 +9,8 @@
 - [Docs](https://docs.cardano.org/projects/plutus/en/latest) - Official documentation.
 - [Glossary](https://playground.plutus.iohkdev.io/tutorial/reference/glossary.html) - Commonly used terms and their definitions.
 - [Playground](https://playground.plutus.iohkdev.io/) - Official playground to try Plutus online.
-- [Plutus GitHub Repository](https://github.com/input-output-hk/plutus) - Official repository.
+- [Starter Project](https://github.com/input-output-hk/plutus-starter) - Plutus Platform starter project.
+- [GitHub Repository](https://github.com/input-output-hk/plutus) - Official GitHub repository.
 
 #### Community
 
