@@ -1,6 +1,6 @@
 # awesome-plutus
 
-![build](https://api.travis-ci.com/juanscolari/awesome-plutus.svg?branch=main)
+[![Build Status](https://api.travis-ci.com/juanscolari/awesome-plutus.svg?branch=main)](https://travis-ci.com/juanscolari/awesome-plutus)
 
 **🪐 A curated list of awesome Plutus resources**
 
