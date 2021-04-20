@@ -1,5 +1,7 @@
 # awesome-plutus
 
+**🪐 A curated list of awesome Plutus resources**
+
 ## Resources
 
 #### Official
