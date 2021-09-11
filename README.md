@@ -6,6 +6,10 @@
 
 > The Plutus Platform is the smart contract platform of the Cardano blockchain. Plutus contracts consist of pieces that run on the blockchain (on-chain code) and pieces that run on a user’s machine (off-chain or client code).
 
+## ⚠️ Deprecation Notice
+
+This repository is being deprecated in order to improve the collaboration within the community, in favor of the more up to date: https://github.com/mlabs-haskell/awesome-plutus
+
 ## Resources
 
 ### Official
