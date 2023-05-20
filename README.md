@@ -1,7 +1,5 @@
 # awesome-plutus
 
-[![Build Status](https://api.travis-ci.com/juanscolari/awesome-plutus.svg?branch=main)](https://travis-ci.com/juanscolari/awesome-plutus)
-
 **🪐 A curated list of awesome Plutus resources**
 
 > The Plutus Platform is the smart contract platform of the Cardano blockchain. Plutus contracts consist of pieces that run on the blockchain (on-chain code) and pieces that run on a user’s machine (off-chain or client code).
